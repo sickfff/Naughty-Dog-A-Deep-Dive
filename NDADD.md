@@ -74,14 +74,39 @@ Some of the most influential titles developed by Naughty Dog:
 
 
 ## 📚 Bibliography
+
 > 🔗 Full references and detailed research can be found in the **[Wiki Section](../../wiki)**.
 
 Shortcuts:
-- [Tab 1 - Origins](../../wiki/Origins)
-- [Tab 2 - Key People](../../wiki/Key-People)
-- [Tab 3 - Engine & Tech](../../wiki/Engine-&-Tech)
-- [Tab 4 - Games](../../wiki/Games)
-- [Tab 5 - Media](../../wiki/Media)
+- [Tab 1 - Origins](../../wiki/Origins)  
+  - https://en.wikipedia.org/wiki/Naughty_Dog  
+  - https://www.mobygames.com/company/naughty-dog  
+  - https://www.naughtydog.com/about  
+  - https://www.gamesindustry.biz/jason-rubin-on-naughty-dogs-early-struggles  
+
+- [Tab 2 - Key People](../../wiki/Key-People)  
+  - https://en.wikipedia.org/wiki/Andy_Gavin  
+  - https://en.wikipedia.org/wiki/Jason_Rubin  
+  - https://en.wikipedia.org/wiki/Neil_Druckmann  
+  - https://www.polygon.com/interviews/2016/3/30/11330898/bruce-straley-naughty-dog-interview  
+
+- [Tab 3 - Engine & Tech](../../wiki/Engine-&-Tech)  
+  - https://www.eurogamer.net/digitalfoundry-the-making-of-the-last-of-us-part-ii  
+  - https://www.gdcvault.com/play/1026455/The-Last-of-Us-Part  
+  - https://venturebeat.com/games/how-naughty-dog-pushed-the-ps3-to-the-limit/  
+  - https://www.digitaltrends.com/gaming/how-the-last-of-us-2-pushes-the-limits-of-storytelling/  
+
+- [Tab 4 - Games](../../wiki/Games)  
+  - https://en.wikipedia.org/wiki/Crash_Bandicoot  
+  - https://en.wikipedia.org/wiki/Uncharted  
+  - https://en.wikipedia.org/wiki/The_Last_of_Us  
+  - https://en.wikipedia.org/wiki/Jak_and_Daxter  
+
+- [Tab 5 - Media](../../wiki/Media)  
+  - https://upload.wikimedia.org/wikipedia/en/5/53/Crash_Bandicoot_Cover.png  
+  - https://upload.wikimedia.org/wikipedia/en/4/4f/The_Last_of_Us_cover.jpg  
+  - https://www.flickr.com/photos/playstationblog/  
+  - https://www.naughtydog.com/blog  
 
 ## ✍️ Signature
 
