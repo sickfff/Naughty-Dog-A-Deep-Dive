@@ -112,4 +112,4 @@ Shortcuts:
 
 > Made with 💡, 🎮 and ☕  
 > By **Gabriel Roriz Silva**  
-> [GitHub](https://github.com/seu-username) | [LinkedIn](https://linkedin.com/in/seu-linkedin)
+> [GitHub](https://github.com/groriz11)
