@@ -69,8 +69,8 @@ Some of the most influential titles developed by Naughty Dog:
 
 | Game | Visual |
 |------|--------|
-| Crash Bandicoot | ![Crash](https://upload.wikimedia.org/wikipedia/en/5/53/Crash_Bandicoot_Cover.png) |
-| The Last of Us | ![TLOU](https://upload.wikimedia.org/wikipedia/en/4/4f/The_Last_of_Us_cover.jpg) |
+| Crash Bandicoot | ![Crash](https://image.api.playstation.com/cdn/UP0002/CUSA07402_00/5GJcmwHfNAJGmSfuK1FchewnevkEMFVWluBS4SKmmPA1oFxJYUq1wIUfnOcC3KAo.png) |
+| The Last of Us | ![TLOU](https://tse2.mm.bing.net/th/id/OIP.ugG5nR6AAEnMi-MjCy6TEQHaIp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) |
 
 
 ## 📚 Bibliography
