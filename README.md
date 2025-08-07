@@ -111,5 +111,5 @@ Shortcuts:
 ## ✍️ Signature
 
 > Made with 💡, 🎮 and ☕  
-> By **Gabriel Roriz Silva**  
-> [GitHub](https://github.com/groriz11)
+> By **𐌔𐌉𐌂𐌊.dll**  
+> [GitHub](https://github.com/sickfff)
